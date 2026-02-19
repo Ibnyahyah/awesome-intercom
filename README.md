@@ -1,17 +1,30 @@
 # Awesome Intercom
 
-New qualifying forks/branches since the current upstream `awesome-intercom` list:
-- has updates ahead of upstream (Intercom or IntercomSwap)
-- README contains a `trac...` address
-- low-effort deltas filtered out (tiny/doc-only changes)
+Curated list of active Intercom and IntercomSwap forks that have updates and a `trac...` address in README.
 
-_Scan time: 2026-02-19 20:50 UTC_
+_Updated: 2026-02-19 21:13 UTC_
 
-Included entries: **70**
+- Upstream Intercom: https://github.com/Trac-Systems/intercom
+- Upstream IntercomSwap: https://github.com/TracSystems/intercom-swap
+- Fork indexes: https://github.com/Trac-Systems/intercom/forks and https://github.com/TracSystems/intercom-swap/forks
 
-Already-known forks in upstream README skipped for address export: **17**
+Included forks/branches: **87** (Intercom: 69, IntercomSwap: 18)
 
-## Intercom-Based
+## Intercom Forks
+- [BikaEvrything/axelbuddy-intercom-ai](https://github.com/BikaEvrything/axelbuddy-intercom-ai) — AxelBuddy Web3 AI onboarding assistant built from Intercom
+- [Diksci/intercom](https://github.com/Diksci/intercom) — Intercom AI Signal Assistant with liquidity analysis, risk scoring, and custom agent commands.
+- [dripitmyback/drippeer](https://github.com/dripitmyback/drippeer) — A decentralized P2P Agent Market built on top of Intercom infrastructure.
+- [fabermubai/intercom](https://github.com/fabermubai/intercom) — Multi-agent AI alpha scanner built on Intercom (Trac Network)
+- [grimore8/intercom_by_grimore8](https://github.com/grimore8/intercom_by_grimore8) — Intercom-based fork with custom app changes.
+- [jonsnft/intercom](https://github.com/jonsnft/intercom) — Idea Inbox is a tiny app for collecting and reviewing ideas in a shared space.
+- [kipasputih58-cpu/PeerPredict](https://github.com/kipasputih58-cpu/PeerPredict) — Create prediction markets on any topic where users stake TNK on outcomes. Results are verified by P2P consensus, not a central oracle.
+- [pudidi17/intercom](https://github.com/pudidi17/intercom) — AgentBridge is a Cross-Platform AI Agent Communication Hub built on Intercom (Trac Network). It provides a decentralized discovery, matchmaking, and communicati
+- [severy09/intercom](https://github.com/severy09/intercom) — Crypto live price tracker with 7-day chart, powered by Intercom.
+- [Uestace223/intercom](https://github.com/Uestace223/intercom) — Stac Price Bot 🚀 Intercom-powered Telegram crypto tracker with real-time price monitoring.
+- [xspace-lab/intercom](https://github.com/xspace-lab/intercom) — applications that leverages Claude AI, Intercom and interswap
+- [ysaja90/ainz-crypto-tracker](https://github.com/ysaja90/ainz-crypto-tracker) — Ainz Tracker is a custom crypto tracking application built on top of Intercom.
+- [zitters/agent-market](https://github.com/zitters/agent-market) — AgentMarket is a peer-to-peer marketplace where AI agents can autonomously discover, negotiate, and purchase services from other agents using the Trac Network I
+- [ZotSite/intercom](https://github.com/ZotSite/intercom) — TracStamp - P2P Timestamping Agent for Intercom (Vibe Competition)
 - [alfathir27/intercom-degen-translator](https://github.com/alfathir27/intercom-degen-translator) — _ "We are all gonna make it. Unless you sell."
 - [anjaysia/intercom](https://github.com/anjaysia/intercom) — This repository is a reference implementation of the Intercom stack on Trac Network for an internet of agents
 - [aprilianirose6/Goal-Tracker-Bot-Gamified-Saving](https://github.com/aprilianirose6/Goal-Tracker-Bot-Gamified-Saving) — A gamified TNK saving tracker built on the TRAC Network / Intercom ecosystem
@@ -68,7 +81,10 @@ Already-known forks in upstream README skipped for address export: **17**
 - [yunamilanita-eng/intercom](https://github.com/yunamilanita-eng/intercom) — Custom Intercom-based fork with app-level changes.
 - [zkbintang/star-escrow-finance](https://github.com/zkbintang/star-escrow-finance) — A CLI-based escrow lifecycle engine built on Intercom architecture
 
-## IntercomSwap-Based
+## IntercomSwap Forks
+- [Anonzeroes/intercom-swap](https://github.com/Anonzeroes/intercom-swap) — !photo_2026-02-17_14-38-14
+- [cukuptau999/intercom-swap](https://github.com/cukuptau999/intercom-swap) — AI-Driven Prediction Market Agent for Trac Network. Enables users to predict events and verify outcomes using intelligent agents.
+- [subserina/intercom-swap](https://github.com/subserina/intercom-swap) — A lightweight swap rate discovery and alert tool Ping the network to discover current BTC↔USDT swap rates from multiple peers Real-time rate quotes aggregation 
 - [albasquarez/Trac_P2P_chat](https://github.com/albasquarez/Trac_P2P_chat) — A fork of Trac-Systems/intercom-swap that adds a real-time AI assistant (Claude) embedded directly into the Intercom sidechannel UI — making
 - [amri72/rivent](https://github.com/amri72/rivent) — Reactive Intercom Event Engine built on top of the Intercom-Swap stack
 - [andinilino680/TRAC-Portfolio-Chat-Dashboard](https://github.com/andinilino680/TRAC-Portfolio-Chat-Dashboard) — A conversational AI-powered dashboard for tracking and analyzing multi-wallet TRAC holdings on the Intercom P2P network
@@ -85,12 +101,7 @@ Already-known forks in upstream README skipped for address export: **17**
 - [Restianrony34/intercom-swap](https://github.com/Restianrony34/intercom-swap) — MY TRAC ADDRESS WALLET
 - [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
 
-## Filter Summary
-- candidates_checked: 100
-- with_trac_in_readme: 78
-- no_readme: 1
-- no_trac: 21
-- fetch_branch_failed: 1
-- no_compare: 1
-- no_updates: 0
-- low_effort: 6
+## Notes
+- Existing upstream entries are preserved; new qualifying entries are appended.
+- `xspace-lab/intercom` branch entries are linked to branch paths via `/tree/<branch>`.
+- Address export in `address.txt` excludes addresses from forks already listed upstream.
