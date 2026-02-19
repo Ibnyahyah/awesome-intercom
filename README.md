@@ -100,8 +100,3 @@ Included forks/branches: **87** (Intercom: 69, IntercomSwap: 18)
 - [pakeko78/intercom-swap-by-pakeko](https://github.com/pakeko78/intercom-swap-by-pakeko) — CLI-based AI Multi-Agent Swap Engine
 - [Restianrony34/intercom-swap](https://github.com/Restianrony34/intercom-swap) — MY TRAC ADDRESS WALLET
 - [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
-
-## Notes
-- Existing upstream entries are preserved; new qualifying entries are appended.
-- `xspace-lab/intercom` branch entries are linked to branch paths via `/tree/<branch>`.
-- Address export in `address.txt` excludes addresses from forks already listed upstream.
