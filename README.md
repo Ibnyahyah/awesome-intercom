@@ -2,13 +2,13 @@
 
 Curated list of active Intercom and IntercomSwap forks that have updates and a `trac...` address in README.
 
-_Updated: 2026-02-19 21:13 UTC_
+_Updated: 2026-02-20 08:02 UTC_
 
 - Upstream Intercom: https://github.com/Trac-Systems/intercom
 - Upstream IntercomSwap: https://github.com/TracSystems/intercom-swap
 - Fork indexes: https://github.com/Trac-Systems/intercom/forks and https://github.com/TracSystems/intercom-swap/forks
 
-Included forks/branches: **87** (Intercom: 69, IntercomSwap: 18)
+Included forks/branches: **119** (Intercom: 91, IntercomSwap: 28)
 
 ## Intercom Forks
 - [BikaEvrything/axelbuddy-intercom-ai](https://github.com/BikaEvrything/axelbuddy-intercom-ai) — AxelBuddy Web3 AI onboarding assistant built from Intercom
@@ -80,11 +80,33 @@ Included forks/branches: **87** (Intercom: 69, IntercomSwap: 18)
 - [xspace-lab/intercom @ `Task-Keeper`](https://github.com/xspace-lab/intercom/tree/Task-Keeper) — An AI-powered personal task and reminder manager built on Intercom
 - [yunamilanita-eng/intercom](https://github.com/yunamilanita-eng/intercom) — Custom Intercom-based fork with app-level changes.
 - [zkbintang/star-escrow-finance](https://github.com/zkbintang/star-escrow-finance) — A CLI-based escrow lifecycle engine built on Intercom architecture
+- [bakainako/TipJar-P2P-Decentralized-Tip-Support-Board](https://github.com/bakainako/TipJar-P2P-Decentralized-Tip-Support-Board) — A peer-to-peer creator tipping board built on Intercom by Trac Systems.
+- [bikangabah/evolveaitrac](https://github.com/bikangabah/evolveaitrac) — P2P Autonomous Agent Battle Protocol — Built on Intercom
+- [BrightTonyTech/intercom](https://github.com/BrightTonyTech/intercom) — Built on Trac Intercom · Vibe Competition Entry
+- [cryptisme/intercom-ask-for-coins](https://github.com/cryptisme/intercom-ask-for-coins) — The Oracle Agent is a decentralized, peer-to-peer application designed to provide instant, accurate cryptocurrency market intelligence. Built on the Pear Runtim
+- [cybertdelion/PollStation---Voting-Poll-P2P-App](https://github.com/cybertdelion/PollStation---Voting-Poll-P2P-App) — A decentralized, peer-to-peer polling and voting app built on top of Intercom — the Trac Network agent stack.
+- [gamingonspot/-TracTask-](https://github.com/gamingonspot/-TracTask-) — A peer-to-peer task management app built on the Intercom network. Agents broadcast tasks, bid on bounties, and sync state — all over Intercom sidechannels and t
+- [hapidummajid-blip/intercom](https://github.com/hapidummajid-blip/intercom) — This repository is a reference implementation of the Intercom stack on Trac Network for an internet of agents.
+- [idimi/intercomifi](https://github.com/idimi/intercomifi) — A P2P WebSocket Bridge for the Trac Network Internet of Agents
+- [imarsela380/XsmartAi](https://github.com/imarsela380/XsmartAi) — Built on Intercom · Trac Network
+- [ingerrrubyshoon-sketch/TRAC-vote](https://github.com/ingerrrubyshoon-sketch/TRAC-vote) — A lightweight peer-to-peer voting/polling app built on Intercom (Trac Network).
+- [itsdecryptor/intercom-nodewatcher-sentinel](https://github.com/itsdecryptor/intercom-nodewatcher-sentinel) — NodeWatcher is a decentralized, peer-to-peer sentinel for blockchain network intelligence. Operating within the Pear Runtime, it provides real-time RPC analysis
+- [jeniferatalanta-creator/-TRAC-Time-Machine-](https://github.com/jeniferatalanta-creator/-TRAC-Time-Machine-) — "What did my wallet look like 6 months ago?" — Now you can find out.
+- [jikagom/Kaffehaus-P2P-Debate-Board-](https://github.com/jikagom/Kaffehaus-P2P-Debate-Board-) — "Where every thesis demands its antithesis."
+- [linkinparketh/SkillMatch-P2P](https://github.com/linkinparketh/SkillMatch-P2P) — A decentralized peer-to-peer skill marketplace built on Intercom (TRAC Network)
+- [lintahdaratr/TracTip-App-App-P2P](https://github.com/lintahdaratr/TracTip-App-App-P2P) — A fork of Intercom by Trac Systems
+- [malefic881/intercom](https://github.com/malefic881/intercom) — This repository is a reference implementation of the Intercom stack on Trac Network for an internet of agents.
+- [prismalaster/trac-gallery](https://github.com/prismalaster/trac-gallery) — An agent-first, AI-powered NFT gallery built on the Trac Network Intercom P2P stack. TracGallery discovers Bitcoin Ordinals and Pipe/TAP NFTs, analyzes artwork 
+- [rexcyon-dev/TracTip--P2P-Tipping-Board](https://github.com/rexcyon-dev/TracTip--P2P-Tipping-Board) — Fork of Trac-Systems/intercom
+- [salessman8/TRAC-Social-Comparison-Bot-](https://github.com/salessman8/TRAC-Social-Comparison-Bot-) — A TRAC Network Intercom fork — analyze your wallet activity and rank yourself against the global TRAC ecosystem.
+- [totoplayerz/TracBoard-Collaborative-P2P-Task-Board](https://github.com/totoplayerz/TracBoard-Collaborative-P2P-Task-Board) — A fork of Intercom that transforms it into a decentralized, peer-to-peer task coordination board for agents and humans.
+- [Yunshanzxx/tractradingmarketpredict](https://github.com/Yunshanzxx/tractradingmarketpredict) — An all-in-one decentralized trading intelligence platform built on Intercom by Trac Systems.
+- [zafarezar3-sudo/TRAC-Wallet-Intelligence-Bot](https://github.com/zafarezar3-sudo/TRAC-Wallet-Intelligence-Bot) — A P2P AI agent built on Intercom that analyzes TRAC/TAP wallet activity, scores wallet health, and delivers real-time intelligence — all over decentralized side
 
 ## IntercomSwap Forks
 - [Anonzeroes/intercom-swap](https://github.com/Anonzeroes/intercom-swap) — !photo_2026-02-17_14-38-14
 - [cukuptau999/intercom-swap](https://github.com/cukuptau999/intercom-swap) — AI-Driven Prediction Market Agent for Trac Network. Enables users to predict events and verify outcomes using intelligent agents.
-- [subserina/intercom-swap](https://github.com/subserina/intercom-swap) — A lightweight swap rate discovery and alert tool Ping the network to discover current BTC↔USDT swap rates from multiple peers Real-time rate quotes aggregation 
+- [subserina/intercom-swap](https://github.com/subserina/intercom-swap) — A lightweight swap rate discovery and alert tool Ping the network to discover current BTC↔USDT swap rates from multiple peers Real-time rate quotes aggregation
 - [albasquarez/Trac_P2P_chat](https://github.com/albasquarez/Trac_P2P_chat) — A fork of Trac-Systems/intercom-swap that adds a real-time AI assistant (Claude) embedded directly into the Intercom sidechannel UI — making
 - [amri72/rivent](https://github.com/amri72/rivent) — Reactive Intercom Event Engine built on top of the Intercom-Swap stack
 - [andinilino680/TRAC-Portfolio-Chat-Dashboard](https://github.com/andinilino680/TRAC-Portfolio-Chat-Dashboard) — A conversational AI-powered dashboard for tracking and analyzing multi-wallet TRAC holdings on the Intercom P2P network
@@ -100,3 +122,13 @@ Included forks/branches: **87** (Intercom: 69, IntercomSwap: 18)
 - [pakeko78/intercom-swap-by-pakeko](https://github.com/pakeko78/intercom-swap-by-pakeko) — CLI-based AI Multi-Agent Swap Engine
 - [Restianrony34/intercom-swap](https://github.com/Restianrony34/intercom-swap) — MY TRAC ADDRESS WALLET
 - [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
+- [Ajaxcerl/Intercom-Swap-Nexus](https://github.com/Ajaxcerl/Intercom-Swap-Nexus) — This project is a custom fork of IntercomSwap built for the Intercom Vibe Competition.
+- [Albelelep/tank-wallet](https://github.com/Albelelep/tank-wallet) — TankWallet is a self-custody TNK/TRK wallet designed for practical daily operations on Trac workflows.
+- [Arza36/ai-dex-swap](https://github.com/Arza36/ai-dex-swap) — This repo is a fork of upstream Intercom (Trac-Systems/intercom): a reference implementation of the Intercom stack on Trac Network for an internet of agents.
+- [hariprasetyaramadhan/intercom-swap](https://github.com/hariprasetyaramadhan/intercom-swap) — Bot otomatisasi untuk melakukan swap token di ekosistem Intercom. Bot ini dibangun menggunakan Node.js dan mendukung interaksi blockchain berkecepatan tinggi.
+- [JeremyFocy/intercom-swap-advanced](https://github.com/JeremyFocy/intercom-swap-advanced) — This repository is an advanced fork of IntercomSwap with additional tools, Web UI, and agent-interaction features.
+- [papdams/rfq-simulation](https://github.com/papdams/rfq-simulation) — A professional Request For Quote (RFQ) simulation platform built with Node.js (Express) and a modern institutional-style UI.
+- [PixieScout/intercom-swap](https://github.com/PixieScout/intercom-swap) — This repository is submitted for the IntercomSwap extension of the Intercom Vibe Competition.
+- [SamAndreas01/intercomswap-chatbot](https://github.com/SamAndreas01/intercomswap-chatbot) — A Telegram-based token swap bot built from IntercomSwap.
+- [SukuyamaBugHunter/hunter-treasury](https://github.com/SukuyamaBugHunter/hunter-treasury) — ⚔ Combat Treasury Simulation Engine
+- [Syawal2/metrics](https://github.com/Syawal2/metrics) — Real-Time CLI Performance Monitor
